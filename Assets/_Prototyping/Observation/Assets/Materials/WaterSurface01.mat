@@ -9,8 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: WaterSurface01
   m_Shader: {fileID: -6465566751694194690, guid: 9dff3d406255f40aebc4ae47261fde82, type: 3}
-  m_ValidKeywords:
-  - BOOLEAN_784E3C35_ON
+  m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -71,7 +70,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - BOOLEAN_784E3C35: 1
+    - BOOLEAN_784E3C35: 0
     - Vector1_182B48F0: 5.64
     - Vector1_29F5C00B: 8.33
     - Vector1_3ED8E20E: 4
