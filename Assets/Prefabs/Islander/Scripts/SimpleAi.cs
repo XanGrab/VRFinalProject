@@ -25,7 +25,7 @@ public class SimpleAi : MonoBehaviour {
 
         Vector3 dist = transform.position - target;
         if (dist.magnitude < 1f) {
-            Debug.Log("Reached Walk Point!");
+            // Debug.Log("Reached Walk Point!");
             walkPointSet = false;
         }
     }
