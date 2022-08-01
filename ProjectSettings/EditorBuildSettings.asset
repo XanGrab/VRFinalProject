@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Island/Island.unity
+    guid: 33891ee507476fb41841056342b99dc3
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 19de2e544f9801345aec6acc27be3a73, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 89882c6cdfefba84dbdb248b5892ad21, type: 2}
